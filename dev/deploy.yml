@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nginx:latest
+        image: ly-do-not-delete-cn-beijing-pre.cr.volces.com/test/nginx:ffo
         ports:
         - containerPort: 80
